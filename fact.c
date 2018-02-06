@@ -2,7 +2,7 @@
   #include<conio.h>
 void main()
 {
-    int a,b,c=1;clrcr(); 
+    int a,b,c=1;clrscr(); 
     printf("\nENTER THE NUMBER");
     scanf("%d",&a);
 
