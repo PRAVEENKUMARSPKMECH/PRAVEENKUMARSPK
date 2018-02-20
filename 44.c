@@ -2,11 +2,11 @@
 
 int main(void)
 {
-char a[1000]="hello world.goodbye";
+char b[1000]="hello world.goodbye";
 int i,c=0;
 for(i=0;i<1000;i++)
 {
-	if(a[i]=='.')
+	if(b[i]=='.')
 	{
 		c++;
 	}
