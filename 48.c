@@ -2,7 +2,7 @@
 int main()
 {
   int a,b;
-  printf("enter the two number ");
+  printf("enter  two number ");
   scanf("%d%d",&a,&b);
   printf("before swap %d %d",a,b);
   a=a^b;
