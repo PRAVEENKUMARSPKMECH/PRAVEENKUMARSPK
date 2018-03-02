@@ -4,7 +4,7 @@
 void main()
 {
    int n,i,s=1;clrscr();
-   printf("ENTER TWO NUMBERS ");
+   printf("ENTER THE NUMBERS ");
    scanf("%d",&n);
    for(i=1;i<=n;i++)
    {
